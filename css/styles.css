@@ -1,0 +1,141 @@
+.fitness-img {
+  align-items: center;
+  width: 5%;
+  float:left;
+  margin-right: 20px;
+}
+
+
+h1 {
+  font-size: 3rem;
+  text-align: left;
+
+}
+h2,h4 {
+  text-align: left;
+}
+p {
+  text-align: left;
+}
+
+hr {
+  border: dotted #EAF6F6 10px;
+  border-bottom: none;
+  width:80%;
+  margin: 10px auto;
+  }
+
+/* Top Section */
+
+.topbar {
+  margin: auto;
+  background-color: lightblue;
+  height: 500px;
+  text-align: center;
+  position: relative;
+  padding:150px 200px 10px 300px;
+}
+.run-img {
+  align-items: center;
+  width: 25%;
+  float:right;
+  margin-right: 50px;
+}
+
+/* Workout Section */
+#workout-section {
+  height: 500px;
+  background-color:white;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  padding:150px 200px 10px 300px;
+}
+.workout-img {
+  align-items: center;
+  width: 25%;
+  float:right;
+  margin-right: 20px;
+
+}
+
+/* Pricing Section  */
+
+#pricing {
+   padding: 7% 15%;
+   text-align: center;
+   font-size: 1rem;
+   background-color: lightblue;
+ }
+ .pricing-colume {
+   padding: 3% 2%;
+   width: 500px;
+ }
+ h5 {
+   font-size: 2rem;
+ }
+h6 {
+  text-align: center;
+}
+
+ /* Ready Secion */
+.ready-section {
+  background-color: lightgreen;
+  margin: 10px auto;
+  text-align: center;
+  padding:60px 50px 50px 50px;
+  height: 200px;
+}
+ .butn {
+ background: #34d9d1;
+ background-image: -webkit-linear-gradient(top, #34d9d1, #43d9af);
+ background-image: -moz-linear-gradient(top, #34d9d1, #43d9af);
+ background-image: -ms-linear-gradient(top, #34d9d1, #43d9af);
+ background-image: -o-linear-gradient(top, #34d9d1, #43d9af);
+ background-image: linear-gradient(to bottom, #34d9d1, #43d9af);
+ -webkit-border-radius: 20;
+ -moz-border-radius: 20;
+ border-radius: 20px;
+ text-shadow: 2px 2px 6px #1f181f;
+ -webkit-box-shadow: 3px 3px 3px #bfb5bf;
+ -moz-box-shadow: 3px 3px 3px #bfb5bf;
+ box-shadow: 3px 3px 3px #bfb5bf;
+ font-family: 'Merriweather', serif;
+ color: #ffffff;
+ font-size: 19px;
+ padding: 10px 20px 10px 20px;
+ text-decoration: none;
+ }
+ .butn:hover {
+ background: #eb52e6;
+ background-image: -webkit-linear-gradient(top, #eb52e6, #c965f0);
+ background-image: -moz-linear-gradient(top, #eb52e6, #c965f0);
+ background-image: -ms-linear-gradient(top, #eb52e6, #c965f0);
+ background-image: -o-linear-gradient(top, #eb52e6, #c965f0);
+ background-image: linear-gradient(to bottom, #eb52e6, #c965f0);
+ text-decoration: none;
+ }
+
+/* Footer Section  */
+#footer-section {
+  padding: 50px 100px 50px 100px;
+  background-color: #212432;
+  margin: auto;
+  height: 500px;
+  color: #fff;
+}
+.left-upfooter {
+  text-align: center;
+  margin: auto;
+  padding: 50px 100px 50px 100px;
+}
+.t-text {
+  text-align: left;
+}
+.downfooter {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.social-icons {
+    width: 2%;
+    margin-left: 20px;
+  }
